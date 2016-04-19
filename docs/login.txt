@@ -1,0 +1,16 @@
+Create Auth Login, Register and Forgot Password
+
+1. php artisan make:auth
+
+2. php artisan migrate
+
+3. config in route file:
+
+Route::group(['middleware' => 'web'], function(){
+	Route::auth();
+	Route::get('/', function(){
+		return view('welcome');
+	});
+	
+	Route::get('/home', 'HomeController@index');
+});

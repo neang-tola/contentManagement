@@ -1,0 +1,14 @@
+https://github.com/bestmomo/filemanager
+
+https://packagist.org/packages/unisharp/laravel-filemanager
+
+https://github.com/UniSharp/laravel-ckeditor
+
+https://github.com/UniSharp/laravel-filemanager
+
+$2y$10$ZwzAGznpy0fS.pF91F17V.wWf7DBe4qlqJxtMlzV4XaqcverQueHi
+
+
+https://medium.com/laravel-news/the-simple-guide-to-deploy-laravel-5-application-on-shared-hosting-1a8d0aee923e#.1u3tmzjd3
+
+Authentication Laravel 5.2: https://www.youtube.com/watch?v=VzzhhgTK6R0 
